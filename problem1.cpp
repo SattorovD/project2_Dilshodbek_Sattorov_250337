@@ -4,6 +4,6 @@
 
 int main() {
 
-    std::cout << "Hello and welcome to NewUU! ";
+    std::cout << "Hello, NUU!";
     return 0;
 }
